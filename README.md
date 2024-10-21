@@ -3,9 +3,13 @@
 ## What the tool does
 Our team needed a way to visualize organizations that receive more than one grant per year and to see how those funds were used by various programs. Due to limitations within out-of-the-box Salesforce reporting and dashboarding features, we needed an alternative way to process and visualize this data. This script ingests an export from a specific Salesforce report in CSV format, strips out any organizations that only received one grant, then creates a stacked vertical bar chart with matplotlib. 
 
+<<<<<<< HEAD
 Usage of this tool requires access to the GMS for Hewlett.
 
 ![Screen Shot 2024-10-09 at 09 22 44](https://github.com/user-attachments/assets/0f4924dd-6aff-41af-80b6-bb4e8072b185)
+=======
+![Screen Shot 2024-10-09 at 09 22 44](https://github.com/user-attachments/assets/a28a47b2-15df-477b-a28d-dc104a33bed0)
+>>>>>>> master
 
 ## How to use the tool
 
